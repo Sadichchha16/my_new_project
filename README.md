@@ -1,4 +1,4 @@
-Painting With AI
+##Painting With AI
 
 Final project for the Building AI course
 
